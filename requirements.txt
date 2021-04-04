@@ -1,0 +1,4 @@
+pandas==0.24.0
+numpy==1.15.1
+pywin32==228
+pyautogui==0.9.52
